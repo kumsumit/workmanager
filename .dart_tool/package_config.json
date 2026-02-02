@@ -291,9 +291,9 @@
     },
     {
       "name": "plugin_platform_interface",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.8",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/plugin_platform_interface-f19d3faf8d449aa73be0c3c71bd7e67fc0fb28bf/",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.8"
     },
     {
       "name": "pool",
@@ -465,21 +465,21 @@
     },
     {
       "name": "workmanager_android",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/workmanager_android-0.9.0+2",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/workmanager_android-5ebcd105e7e3ef651e8106c727b5fb32b7335ec9/",
       "packageUri": "lib/",
-      "languageVersion": "3.5"
+      "languageVersion": "3.10"
     },
     {
       "name": "workmanager_apple",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/workmanager_apple-0.9.1+2",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/workmanager_apple-63ae48fb1235cec3425d16f1196a9f05cd4546e3/",
       "packageUri": "lib/",
-      "languageVersion": "3.5"
+      "languageVersion": "3.10"
     },
     {
       "name": "workmanager_platform_interface",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/workmanager_platform_interface-0.9.1+1",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/workmanager_platform_interface-78f2e3e6aff761c45ba8c125fb2a6efdea6c3ede/",
       "packageUri": "lib/",
-      "languageVersion": "3.5"
+      "languageVersion": "3.10"
     },
     {
       "name": "yaml",
@@ -491,7 +491,7 @@
       "name": "workmanager",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.5"
+      "languageVersion": "3.10"
     }
   ],
   "generator": "pub",

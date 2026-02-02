@@ -382,10 +382,11 @@ packages:
   plugin_platform_interface:
     dependency: transitive
     description:
-      name: plugin_platform_interface
-      sha256: "4820fbfdb9478b1ebae27888254d445073732dae3d6ea81f0b7e06d5dedc3f02"
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: f19d3faf8d449aa73be0c3c71bd7e67fc0fb28bf
+      url: "https://github.com/kumsumit/plugin_platform_interface.git"
+    source: git
     version: "2.1.8"
   pool:
     dependency: transitive
@@ -611,26 +612,29 @@ packages:
   workmanager_android:
     dependency: "direct main"
     description:
-      name: workmanager_android
-      sha256: "9ae744db4ef891f5fcd2fb8671fccc712f4f96489a487a1411e0c8675e5e8cb7"
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "5ebcd105e7e3ef651e8106c727b5fb32b7335ec9"
+      url: "https://github.com/kumsumit/workmanager_android.git"
+    source: git
     version: "0.9.0+2"
   workmanager_apple:
     dependency: "direct main"
     description:
-      name: workmanager_apple
-      sha256: "1cc12ae3cbf5535e72f7ba4fde0c12dd11b757caf493a28e22d684052701f2ca"
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "63ae48fb1235cec3425d16f1196a9f05cd4546e3"
+      url: "https://github.com/kumsumit/workmanager_apple.git"
+    source: git
     version: "0.9.1+2"
   workmanager_platform_interface:
     dependency: "direct main"
     description:
-      name: workmanager_platform_interface
-      sha256: f40422f10b970c67abb84230b44da22b075147637532ac501729256fcea10a47
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "78f2e3e6aff761c45ba8c125fb2a6efdea6c3ede"
+      url: "https://github.com/kumsumit/workmanager_platform_interface.git"
+    source: git
     version: "0.9.1+1"
   yaml:
     dependency: transitive
@@ -641,5 +645,5 @@ packages:
     source: hosted
     version: "3.1.3"
 sdks:
-  dart: ">=3.9.0 <4.0.0"
-  flutter: ">=3.32.0"
+  dart: ">=3.10.0 <4.0.0"
+  flutter: ">=3.38.0"
