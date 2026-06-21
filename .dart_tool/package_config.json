@@ -147,7 +147,7 @@
     },
     {
       "name": "flutter",
-      "rootUri": "file:///Users/amitsharan/.shorebird/bin/cache/flutter/65b1e4368e98a85ea11e8ef2cffc286c3b2ad8b2/packages/flutter",
+      "rootUri": "file:///Users/amitsharan/development/flutter/packages/flutter",
       "packageUri": "lib/",
       "languageVersion": "3.12"
     },
@@ -159,7 +159,7 @@
     },
     {
       "name": "flutter_test",
-      "rootUri": "file:///Users/amitsharan/.shorebird/bin/cache/flutter/65b1e4368e98a85ea11e8ef2cffc286c3b2ad8b2/packages/flutter_test",
+      "rootUri": "file:///Users/amitsharan/development/flutter/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "3.12"
     },
@@ -333,7 +333,7 @@
     },
     {
       "name": "sky_engine",
-      "rootUri": "file:///Users/amitsharan/.shorebird/bin/cache/flutter/65b1e4368e98a85ea11e8ef2cffc286c3b2ad8b2/bin/cache/pkg/sky_engine",
+      "rootUri": "file:///Users/amitsharan/development/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
       "languageVersion": "3.10"
     },
@@ -490,7 +490,7 @@
   ],
   "generator": "pub",
   "generatorVersion": "3.12.2",
-  "flutterRoot": "file:///Users/amitsharan/.shorebird/bin/cache/flutter/65b1e4368e98a85ea11e8ef2cffc286c3b2ad8b2",
+  "flutterRoot": "file:///Users/amitsharan/development/flutter",
   "flutterVersion": "3.44.2",
   "pubCache": "file:///Users/amitsharan/.pub-cache"
 }
